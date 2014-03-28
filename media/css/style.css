@@ -1,0 +1,194 @@
+body{
+	background-color:#f0bad4;
+	position:relative;
+}
+
+#wrap{
+	width:960px;
+	font-family:arial;
+	color:#ffffff;
+	font-decoration:none;
+	margin: auto;
+	  position: absolute;
+	  top: 15%; left: 0; bottom: 20%; right: 0;
+	
+}
+
+a{
+	cursor: pointer;
+}
+
+.box{
+	width:940px;
+	height:530px;
+	
+	
+}
+
+#begin{
+	background:url("/media/images/begin.png") no-repeat;
+	width:940px;
+	height:530px;
+}
+
+#stepone{
+	background:url("/media/images/stepone.png") no-repeat;
+	position:relative;
+	display:none;
+}
+
+.content{
+	padding-top:175px;
+	
+}
+.card{
+	float: left;
+	width: 195px;
+	padding: 20px;
+}
+
+#steptwo{
+	background:url("/media/images/steptwo.png") no-repeat;
+	position:relative;
+	display:none;
+}
+
+#addwords{
+	padding-top:200px;
+}
+
+#send{
+	background:url("/media/images/send.png") no-repeat;
+	float: right;
+	margin-right: 60px;
+	height:300px;
+}
+
+#form-wrap{
+	margin:20px;
+}
+
+#form-wrap label{
+	margin-top:20px;
+	color:#d64b8a;
+	display:block;
+
+}
+
+.card label{
+	color:#ffffff;
+	
+}
+
+.border{
+	border:2px solid #f00;
+}
+
+#tname{
+	width:150px;
+}
+
+#temail{
+	width:200px;
+}
+
+#fname{
+	width:150px;
+}
+
+#femail{
+	width:200px;
+}
+
+#message{
+	width:350px;
+	height:35px;
+}
+
+.bigcard{
+	float: left;
+	margin-left: 60px;
+}
+
+#stepthree{
+	background:url("/media/images/stepthree.png") no-repeat;
+	position:relative;
+	display:none;
+}
+
+#datestamp{
+	float:right;
+	padding:25px;
+	color:#d74c89;
+}
+
+#previewtext{
+	padding: 35px;
+	line-height: 30px;
+	color: #d74c89;
+}
+.preview{
+	background: url("/media/images/preview.png") no-repeat;
+	float: right;
+	padding-right: 60px;
+	width: 400px;
+	height: 266px;
+	color:#000000;
+}
+
+.content{
+	padding-top:175px;
+	position:relative;
+}
+.next{
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+	
+}
+
+.back{
+	position: absolute;
+	left: 10px;
+	bottom: 10px;
+}
+
+#done{
+	background:url("/media/images/congratulations.png") no-repeat;
+	height:530px;
+	position:relative;
+}
+
+#share{
+	margin: 0 auto;
+	width: 140px;
+	padding-top: 25px;
+}
+#textshare{
+	float:left;
+	color:#000000;
+	line-height:25px;
+}
+.fb-share-button{	
+	height:25px;
+}
+
+
+
+#social{
+	margin: 0 auto;
+	color: #000000;
+	float:left;
+	margin-right:10px;
+}
+
+#createanother{
+	text-align: center;
+	padding-top: 425px;
+	
+}
+
+#createfirst{
+	text-align: center;
+	padding-top: 445px;
+}
